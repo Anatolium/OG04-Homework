@@ -1,5 +1,7 @@
-a = 7
-b = 9
+for _ in range(8):
+    print("something")
+
+a, b = 9, 8
 
 if a > b:
     print("a больше b")
