@@ -1,4 +1,3 @@
-print("conflict line")
 for _ in range(8):
     print("something")
 
