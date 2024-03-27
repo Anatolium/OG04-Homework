@@ -10,3 +10,7 @@ def function2():
 
 def function3():
     print("Исправленная новая функция")
+
+
+def function4():
+    print("Новая разработанная функция")
